@@ -1,0 +1,18 @@
+[2009-10-18 00:07:54][22647][ERROR][SQL Error: MySQL extension is not loaded at /var/www/html/livestreet/classes/modules/sys_database/Database.class.php line 66<br>
+Array
+(
+    [code] => -1
+    [message] => MySQL extension is not loaded
+    [query] => mysql_connect
+    [context] => /var/www/html/livestreet/classes/modules/sys_database/Database.class.php line 66
+)
+]
+[2009-10-18 00:25:56][22651][ERROR][SQL Error: MySQL extension is not loaded at /var/www/html/livestreet/classes/modules/sys_database/Database.class.php line 66<br>
+Array
+(
+    [code] => -1
+    [message] => MySQL extension is not loaded
+    [query] => mysql_connect
+    [context] => /var/www/html/livestreet/classes/modules/sys_database/Database.class.php line 66
+)
+]
