@@ -2,6 +2,7 @@
 
 /**
  * Модуль отвечает за обработку xmlrpc сообщений
+ * Другой комментарий
  */
 
 require_once('XmlRpcServer.class.php');
