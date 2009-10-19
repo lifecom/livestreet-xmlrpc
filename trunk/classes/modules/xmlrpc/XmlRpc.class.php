@@ -1,5 +1,9 @@
 <?php
 
+/**
+ * Модуль отвечает за обработку xmlrpc сообщений
+ */
+
 require_once('XmlRpcServer.class.php');
 
 class LsXmlRpc extends Module {
