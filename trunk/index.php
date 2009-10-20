@@ -1,6 +1,7 @@
 <?php
 /*-------------------------------------------------------
 *
+*	Some comment added here
 *   LiveStreet Engine Social Networking
 *   Copyright © 2008 Mzhelskiy Maxim
 *
